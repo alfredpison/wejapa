@@ -1,0 +1,37 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(40, 75, 59);
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+ul li {
+    list-style: none;
+    text-align: center;
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.timercontainer {
+    min-height: 90vh;
+    width: 100%;
+    margin-top: 40px;
+    overflow: hidden;
+    margin-left: 60px;
+}
+
+#output {
+    width: 100%;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0px auto;
+    text-decoration-color: rgb(236, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.controls {
+    text-align: center;
+}
+
