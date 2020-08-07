@@ -21,6 +21,7 @@ ul li {
     margin-top: 40px;
     overflow: hidden;
     margin-left: 60px;
+    padding-right: 15vh;
 }
 
 #output {
